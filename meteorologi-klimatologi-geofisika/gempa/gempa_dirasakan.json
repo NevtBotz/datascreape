@@ -1,0 +1,244 @@
+[
+  {
+    "waktu": "16/05/2022 18:43:25 WIB",
+    "lintang": "0.77 LS",
+    "bujur": "133.21 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 72 km barat laut Pegunungan Arfak",
+    "warning": [
+      "III-IV Manokwari"
+    ]
+  },
+  {
+    "waktu": "16/05/2022 18:30:24 WIB",
+    "lintang": "7.2 LS",
+    "bujur": "120.39 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 102 km barat daya Selayar",
+    "warning": [
+      "II Pulau Jampea"
+    ]
+  },
+  {
+    "waktu": "16/05/2022 17:13:48 WIB",
+    "lintang": "0.56 LU",
+    "bujur": "122.14 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "77 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km Barat Laut Boalemo",
+    "warning": [
+      "II-III Kota Gorontalo",
+      "II - III Kab. Gorontalo",
+      "II-III Kab. Gorontalo Utara",
+      "II Kab. Boalemo",
+      "II Kab. Pohuwato"
+    ]
+  },
+  {
+    "waktu": "15/05/2022 06:40:27 WIB",
+    "lintang": "4.12 LS",
+    "bujur": "121.67 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 1.1 km barat daya Kolaka",
+    "warning": [
+      "II Kolaka"
+    ]
+  },
+  {
+    "waktu": "15/05/2022 05:42:04 WIB",
+    "lintang": "4.11 LS",
+    "bujur": "121.64 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 4.2 km barat laut Kolaka",
+    "warning": [
+      "III Kolaka",
+      "II Kolaka Timur"
+    ]
+  },
+  {
+    "waktu": "14/05/2022 09:25:20 WIB",
+    "lintang": "3.06 LS",
+    "bujur": "139.86 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "90 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km tenggara Kab. Jayapura",
+    "warning": [
+      "III - IV Jayapura",
+      "II Sentani",
+      "III Keerom"
+    ]
+  },
+  {
+    "waktu": "12/05/2022 14:22:12 WIB",
+    "lintang": "0.06 LS",
+    "bujur": "123.48 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "116 Km",
+    "wilayah": "Pusat gempa berada di laut 74 km Barat Daya Bolaanguki-BolSel",
+    "warning": [
+      "II-III Gorontalo",
+      "II - III Kab. Pulau Taliabu",
+      "II - III Luwuk"
+    ]
+  },
+  {
+    "waktu": "12/05/2022 12:07:30 WIB",
+    "lintang": "4.71 LS",
+    "bujur": "122.79 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di laut 6 km BaratLaut Maligano",
+    "warning": [
+      "III-IV Raha",
+      "II Lainea"
+    ]
+  },
+  {
+    "waktu": "12/05/2022 00:43:03 WIB",
+    "lintang": "6.89 LS",
+    "bujur": "113.99 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km timur laut Sumenep",
+    "warning": [
+      "II-III Sumenep"
+    ]
+  },
+  {
+    "waktu": "12/05/2022 00:27:36 WIB",
+    "lintang": "4.6 LU",
+    "bujur": "94.84 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 117 Km Barat Daya Banda Aceh",
+    "warning": [
+      "III Banda Aceh",
+      "III Aceh Besar",
+      "III Aceh Jaya"
+    ]
+  },
+  {
+    "waktu": "11/05/2022 23:20:12 WIB",
+    "lintang": "3.71 LU",
+    "bujur": "126.81 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 36 km tenggara Melonguane",
+    "warning": [
+      "II - III Melonguane",
+      "II - III Naha Tahuna"
+    ]
+  },
+  {
+    "waktu": "11/05/2022 09:18:55 WIB",
+    "lintang": "3.78 LS",
+    "bujur": "119.4 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 22 km barat daya Pinrang",
+    "warning": [
+      "III-IV Pinrang",
+      "II Pare-Pare",
+      "II Majene",
+      "II Polman"
+    ]
+  },
+  {
+    "waktu": "11/05/2022 08:37:55 WIB",
+    "lintang": "8.64 LS",
+    "bujur": "120.46 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km barat daya Ruteng",
+    "warning": [
+      "III-IV Ruteng"
+    ]
+  },
+  {
+    "waktu": "11/05/2022 08:34:27 WIB",
+    "lintang": "8.62 LS",
+    "bujur": "120.48 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km tenggara Ruteng, Manggarai",
+    "warning": [
+      "III-IV Ruteng"
+    ]
+  },
+  {
+    "waktu": "10/05/2022 03:54:11 WIB",
+    "lintang": "0.64 LU",
+    "bujur": "122.15 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "58 Km",
+    "wilayah": "Pusat gempa berada di darat 25 km barat laut Boalemo",
+    "warning": [
+      "II Gorontalo",
+      "I - II Kab. Gorontalo",
+      "IV Kab. Gorontalo Utara",
+      "III Kab. Bone Bolango"
+    ]
+  },
+  {
+    "waktu": "10/05/2022 03:22:11 WIB",
+    "lintang": "4.55 LS",
+    "bujur": "138.57 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 40 km Tenggara Nduga",
+    "warning": [
+      "II Wamena"
+    ]
+  },
+  {
+    "waktu": "09/05/2022 22:34:38 WIB",
+    "lintang": "5.53 LS",
+    "bujur": "105.25 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 9 km barat daya Bandar Lampung",
+    "warning": [
+      "III Teluk Betung Timur",
+      "III Lempasing",
+      "III Teluk Pandan"
+    ]
+  },
+  {
+    "waktu": "09/05/2022 11:50:31 WIB",
+    "lintang": "8.23 LS",
+    "bujur": "108.28 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "32 Km",
+    "wilayah": "Pusat gempa berada di 63 Km Barat Daya Kabupaten Pangandaran",
+    "warning": [
+      "I-II Banjar",
+      "II Garut"
+    ]
+  },
+  {
+    "waktu": "09/05/2022 10:30:25 WIB",
+    "lintang": "3.77 LS",
+    "bujur": "133.71 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 60 km barat daya Kaimana",
+    "warning": [
+      "II Kaimana"
+    ]
+  },
+  {
+    "waktu": "09/05/2022 07:14:46 WIB",
+    "lintang": "5.67 LS",
+    "bujur": "104.78 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 23 km tenggara Tanggamus",
+    "warning": [
+      "II Limau"
+    ]
+  }
+]
